@@ -6,8 +6,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.1"
-REPO_NAME = "samplemongopipi"
-PKG_NAME= "databaseautomation"
+REPO_NAME = "mlops-learning-00"
+PKG_NAME= "samplemongoconnect"
 AUTHOR_USER_NAME = "machinelearningzuu"
 AUTHOR_EMAIL = "isurualagiyawanna97@gmail.com"
 
